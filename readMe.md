@@ -1,2 +1,1 @@
-Hi this is sample application pushed into the github to do handson with git commands.
-Thankyou.
+Hi this is sample application to learn about git commands.
